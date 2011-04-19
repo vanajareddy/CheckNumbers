@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckNumbersDivBy3And5", "ConsoleApplication1\CheckNumbersDivBy3And5.csproj", "{ABDDEEB2-91DD-4C50-9768-A5FA7FB08DAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDDEEB2-91DD-4C50-9768-A5FA7FB08DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDDEEB2-91DD-4C50-9768-A5FA7FB08DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDDEEB2-91DD-4C50-9768-A5FA7FB08DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDDEEB2-91DD-4C50-9768-A5FA7FB08DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
